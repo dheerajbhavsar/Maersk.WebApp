@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/Maersk.WebApp" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="Web_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="Web_Param1" Value="Lerning service fabric is fun!!!" />
+    <Parameter Name="Web_Param2" Value="Using parameters in sfc is relly fun!!!" />
+  </Parameters>
+</Application>
